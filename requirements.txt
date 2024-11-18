@@ -1,4 +1,5 @@
 pyrofork==2.3.45
+pyromod
 humanize
 pymongo
 Pillow
@@ -8,4 +9,4 @@ dnspython
 Flask
 gunicorn
 aiohttp
-pyromod
+
