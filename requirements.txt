@@ -8,3 +8,4 @@ dnspython
 Flask
 gunicorn
 aiohttp
+pyromod
